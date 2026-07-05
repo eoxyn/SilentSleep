@@ -1,6 +1,6 @@
 # SilentSleep 🛏️
 
-An ultra-lightweight, high-performance packet-level sleep message blocker for modern Minecraft (1.20 - 1.21+) servers running on highly multi-threaded architectures like **Folia**, **Canvas**, and standard **Paper** / **Spigot**.
+An ultra-lightweight, high-performance packet-level sleep message blocker for modern Minecraft (1.20 - 26.x) servers running on highly multi-threaded architectures like **Folia**, **Canvas**, and standard **Paper** / **Spigot**.
 
 ## Why SilentSleep?
 
