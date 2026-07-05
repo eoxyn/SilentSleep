@@ -19,7 +19,7 @@ SilentSleep completely intercepts and discards these messages at the packet leve
 
 ## Requirements
 
-- **Minecraft**: 1.20.x up to 1.21.x+
+- **Minecraft**: 1.20.x up to 26.x+
 - **Java**: 17 or higher
 - **Dependency**: None (Fully Standalone)
 
